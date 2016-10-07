@@ -1,0 +1,51 @@
+<!-- 14331025_chenkui -->
+
+body {
+	margin:0;
+	padding:0;
+}
+
+#calculator {
+	width: 480px;
+	height: 500px;
+	margin: 50px auto;
+
+    background: #98DEEA;
+
+	border: 4px solid black;
+	border-radius: 4px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+input {
+	font-size:20px;
+}
+
+#input_button input {
+	width:102px;
+	height:65px;
+	margin-left: 10px;
+	margin-top: 7px;
+
+	background:#ccc;
+	border-radius: 10px;
+}
+
+input[type = "text"] {
+    font-size:25px;
+    font-weight:bold;
+
+	background: #eee;
+    color: black;
+
+	margin:20px;
+	width:435px;
+	height:40px;
+
+	border-radius: 7px;
+}
+
+#input_button input:hover {
+	background: #585858;
+	cursor: pointer;
+}
