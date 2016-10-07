@@ -1,5 +1,3 @@
-// 14331025_chenkui
-
 var text_ans = ""; // 总表达式字符串
 var flag = false;  // 用于判断出当前是否为计算出式子的状态
 
